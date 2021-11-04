@@ -1,0 +1,1 @@
+For this particular project i used Django 3.2.9 as my framework, also working with Python 3.10.0, HTML and CSS for the customization of the page.
