@@ -12,5 +12,5 @@ There's a bug that i couldn't fix on time. Sometimes when a registered user type
 
 1. Right click on the page and inspect to open console.
 2. Navigate through the arrows to the "Application" option.
-3. Delete the "sessionid" row
+3. Delete the "sessionid" row <br />
 ![bug](./sessionid.png)
